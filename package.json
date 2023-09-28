@@ -1,0 +1,20 @@
+{
+  "name": "100997363_comp3123-exec04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "100997363_COMP3123-exec04.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 100997363_COMP3123-exec04.js",
+    "dev": "nodemon 100997363_COMP3123-exec04.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
